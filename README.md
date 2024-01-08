@@ -13,3 +13,6 @@ GetInfo fetches information of various items from an API and also posts item to 
 - Hilt for Dependency Injection
 - Jetpack Navigation Framework
 
+## Permission Used
+- Internet
+- Storage
