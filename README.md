@@ -1,5 +1,5 @@
 
-# CryptoTracker
+# GetInfo
 
 GetInfo fetches information of various items from an API and also posts item to the API
 
